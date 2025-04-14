@@ -20,7 +20,7 @@ This repository contains basic C programs covering core programming concepts:
 ## 🏁 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/basic-c-programs.git
+   git clone https://github.com/yourusername/Basic-C-Programming.git
 
 ## Author
 Aniket De
